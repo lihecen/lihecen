@@ -1,16 +1,28 @@
-## Hi there 👋
+<!-- 黑客风 GitHub Profile README for lihecen -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=In+a+world+of+0s+and+1s%2C+be+the+∞.;Welcome+to+lihecen's+terminal;Booting+up+cyber+presence..." alt="Typing SVG" />
+</p>
 
-<!--
-**lihecen/lihecen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> whoami
+👤 lihecen
 
-Here are some ideas to get you started:
+> echo "About me"
+🧠 技术栈: React.js | Vue3.js | Java | Python | C++ | Dart | Flutter | JavaScript | TypeScript | Node.js  
+📌 信条: In a world of 0s and 1s, be the ∞.  
+💼 职责: 全栈开发者 | 架构设计 | 工具创造者  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ls ./projects
+📁 SurveyX        - 仿问卷星的低代码问卷平台 | TS + React + Node.js  
+                    🔗 https://github.com/lihecen/SurveyX
+📁 SchemaFormify  - JSON驱动自动表单生成器 | 插件 + 主题系统支持  
+                    🔗 https://github.com/lihecen/SchemaFormify
+
+> top -u lihecen
+📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=lihecen&show_icons=true&theme=radical&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=39ff14&bg_color=000000)
+
+> htop --languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihecen&layout=compact&theme=radical&hide_border=true&title_color=00ff00&text_color=39ff14&bg_color=000000)
+
+> poweroff
