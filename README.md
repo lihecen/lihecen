@@ -10,7 +10,7 @@
 > echo "About me"
 🧠 技术栈: React.js | Vue3.js | Java | Python | C++ | Dart | Flutter | JavaScript | TypeScript | Node.js  
 📌 信条: In a world of 0s and 1s, be the ∞.  
-💼 职责: 全栈开发者 | 架构设计 | 工具创造者  
+💼 职责: 全栈开发程序员 | Himmer产品负责人 | 酷爱踢足球的上进小青年   
 
 > ls ./projects
 📁 SurveyX        - 仿问卷星的低代码问卷平台 | TS + React + Node.js  
@@ -20,9 +20,10 @@
 
 > top -u lihecen
 📊 GitHub Stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=lihecen&show_icons=true&theme=radical&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=39ff14&bg_color=000000)
+![Stats](https://github-stats.liuli.lol/api?username=lihecen&show_icons=true&theme=radical&hide_border=true&title_color=00ff00&icon_color=00ff00&text_color=39ff14&bg_color=000000)
 
 > htop --languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihecen&layout=compact&theme=radical&hide_border=true&title_color=00ff00&text_color=39ff14&bg_color=000000)
+![Top Langs](https://github-stats.liuli.lol/api/top-langs/?username=lihecen&layout=compact&theme=radical&hide_border=true&title_color=00ff00&text_color=39ff14&bg_color=000000)
+
 
 > poweroff
