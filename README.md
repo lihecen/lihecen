@@ -142,8 +142,5 @@
     </td>
   </tr>
 </table>
-
-<!-- 粉红色汇总表 -->
-<img width="120%" src="https://repobeats.axiom.co/api/embed/a86969a7755db95ea106d1381f546f0dba3847b6.svg" />
 </div>
 
