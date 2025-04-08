@@ -141,20 +141,9 @@
       <img width="150"  src="https://img.shields.io/github/forks/lihecen/SurveyX?style=social" alt="stars"/>
     </td>
   </tr>
-   <tr>
-    <td><a href="https://github.com/lihecen/SchemaFormify" target="_blank">SchemaFormify</a></td>
-    <td>一款基于json对象自动生成带有校验功能表单组件生成器(支持主题系统 + 插件系统)</td>
-    <td>
-      <img width="150" src="https://img.shields.io/github/stars/lihecen/SchemaFormify?style=social" alt="stars"/>
-    </td>
-     <td>
-      <img width="150" src="https://img.shields.io/github/forks/lihecen/SchemaFormify?style=social" alt="stars"/>
-    </td>
-  </tr>
 </table>
 
 <!-- 粉红色汇总表 -->
 <img width="120%" src="https://repobeats.axiom.co/api/embed/a86969a7755db95ea106d1381f546f0dba3847b6.svg" />
-<img width="120%" src="https://repobeats.axiom.co/api/embed/368d0b2adc78de75ceb94b89d2b43a027848a895.svg" />
 </div>
 
