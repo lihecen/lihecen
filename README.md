@@ -125,16 +125,6 @@
     <th>Stars</th>
     <th>Forks</th>
   </tr>
-  <tr>
-    <td><a href="https://github.com/lihecen/SurveyX" target="_blank">SurveyX</a></td>
-    <td>SurveyX 是一个基于 React + TypeScript + Node.js 的全栈低代码问卷平台，同时支持 B 端和 C 端需求，提供高效、灵活的问卷设计与数据收集解决方案</td>
-    <td >
-      <img width="150"  src="https://img.shields.io/github/stars/lihecen/SurveyX?style=social" alt="stars"/>
-    </td>
-    <td >
-      <img width="150"  src="https://img.shields.io/github/forks/lihecen/SurveyX?style=social" alt="stars"/>
-    </td>
-  </tr>
 </table>
 </div>
 
