@@ -37,7 +37,13 @@
 <a href="https://github.com/lihecen" target="_blank">
 <img src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github alt=github height="40" style="margin-right: 10px;" />
 </a>
-</div>  
+</div> 
+
+<!-- 个人打卡记录 -->
+ ## Github Streak  
+ <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lihecen" /> </div>
+ <!-- for beauty 留个空行好看点 -->
+ <div>&nbsp;</div>
 
 <!-- star 语言占比等统计 -->
 ## Github Stats  
@@ -136,8 +142,5 @@
      </td>
    </tr>
 </table>
-
-<!-- 粉红色汇总表 -->
- <img width="120%" src="https://repobeats.axiom.co/api/embed/a86969a7755db95ea106d1381f546f0dba3847b6.svg" />
 </div>
 
