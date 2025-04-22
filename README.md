@@ -39,10 +39,6 @@
 </a>
 </div> 
 
-<!-- 个人打卡记录 -->
-  ## Github Streak  
-  
-
 <!-- star 语言占比等统计 -->
 ## Github Stats  
 <div align="center">
