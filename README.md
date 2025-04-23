@@ -135,19 +135,8 @@
        <img width="150"  src="https://img.shields.io/github/forks/lihecen/tiny-vue3?style=social" alt="stars"/>
      </td>
    </tr>
-   <tr>
-     <td><a href="https://github.com/lihecen/tiny-react" target="_blank">tiny-react</a></td>
-     <td>tiny-react是基于react源码抽离的核心代码逻辑，重新手写复盘react源码</td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/stars/lihecen/tiny-react?style=social" alt="stars"/>
-     </td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/forks/lihecen/tiny-react?style=social" alt="stars"/>
-     </td>
-   </tr>
 </table>
    <!-- 粉红色汇总表 -->
    <img width="120%" src="https://repobeats.axiom.co/api/embed/395dcdf5231635e447c7ff7cbe04980e55555b9f.svg" />
-   <img width="120%" src="https://repobeats.axiom.co/api/embed/a6fa0ac5ba5a9790c2bf4bbdc7d15908b559a82b.svg" />
 </div>
 
