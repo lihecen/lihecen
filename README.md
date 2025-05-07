@@ -27,10 +27,6 @@
 <div align="center">❓如有任何疑问和想法，欢迎在Github下留言交流❓</div>  
 <br/>  
 
-<!-- 贪吃蛇动图 -->
-<div align="center"><img src="https://raw.gitmirror.com/1321928757/action/output/github-contribution-grid-snake.svg?new=20250407" /></div>
-<br/>  
-
 <!-- 联系方式 -->
 ## Connect with me  
 <div align="center">
@@ -38,12 +34,6 @@
 <img src=https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github alt=github height="40" style="margin-right: 10px;" />
 </a>
 </div> 
-
-<!-- 个人打卡记录 -->
-  ## Github Streak  
-  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lihecen" /> </div>
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
 
 <!-- star 语言占比等统计 -->
 ## Github Stats  
