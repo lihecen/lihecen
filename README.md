@@ -39,6 +39,12 @@
 </a>
 </div> 
 
+<!-- 个人打卡记录 -->
+  ## Github Streak  
+  <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lihecen" /> </div>
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
 <!-- star 语言占比等统计 -->
 ## Github Stats  
 <div align="center">
@@ -142,20 +148,10 @@
        <img width="150"  src="https://img.shields.io/github/forks/lihecen/tiny-react?style=social" alt="stars"/>
      </td>
    </tr>
-  <tr>
-     <td><a href="https://github.com/lihecen/YoutubeX" target="_blank">YoutubeX</a></td>
-     <td>YoutubeX 是一款基于Next.js 15 + React 19 + Tailwindcss v4 + TRPC + Drizzle ORM 等技术仿照 Youtube 实现的产品，融合AI技术并且汇集了登录认证，发布，订阅，点赞，查询等功能</td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/stars/lihecen/YoutubeX?style=social" alt="stars"/>
-     </td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/forks/lihecen/YoutubeX?style=social" alt="stars"/>
-     </td>
-   </tr>
+  
 </table>
    <!-- 粉红色汇总表 -->
    <img width="120%" src="https://repobeats.axiom.co/api/embed/395dcdf5231635e447c7ff7cbe04980e55555b9f.svg" />
    <img width="120%" src="https://repobeats.axiom.co/api/embed/a157fb7251660f237b1ad6a6385e71d8ffd744e7.svg" />
-   <img width="120%" src="https://repobeats.axiom.co/api/embed/09b93d650b30bbf05de8113aa71b0e39045eb947.svg" />
 </div>
 
