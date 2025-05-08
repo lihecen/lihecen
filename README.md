@@ -73,6 +73,17 @@
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
+<!-- profile-3d-contrib 3D 贡献图-->
+## Github 3D Statistics
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-season-animate.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-season-animate.svg" />
+    <img src="/profile-season-animate.svg" />
+</picture>
+
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
 <!--Star 历史走势图 -->
 ## Star History
 <div align="center">
@@ -84,10 +95,10 @@
 
 <!-- 技能表 -->
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table align="center"><tr><td valign="top" width="33%">
 
 <!-- 前端技能 -->
-### Frontend  
+<h3 align="center">Frontend</h3>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -100,7 +111,7 @@
 </td><td valign="top" width="33%">
 
 <!-- 后端技能 -->
-### Backend  
+<h3 align="center">Backend</h3>
 <div align="center">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -113,7 +124,7 @@
 </td><td valign="top" width="33%">
 
 <!--运维相关 -->
-### DevOps  
+<h3 align="center">DevOps</h3>
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   
