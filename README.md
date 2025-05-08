@@ -39,13 +39,6 @@
 </a>
 </div> 
 
-<!-- 社交统计 -->
-  ## Social Statistics
-  <div align="center"> 
-    <img src="https://stats.justsong.cn/api/github?username=lihecen&theme=gruvbox_light" /> 
-    <img src="https://stats.justsong.cn/api/leetcode?username=li-he-cen&cn=true&theme=gruvbox_light" /> 
-  </div>
-  
 <!-- for beauty 留个空行好看点 -->
  <div>&nbsp;</div>
 
@@ -65,7 +58,7 @@
 <div>&nbsp;</div>
 
 <!-- 贡献曲线图 -->
-## Github contribution
+## Github Contribution
 <table>
   <tr>
     <td>
@@ -76,6 +69,15 @@
       </picture>
   </tr>
 </table>
+
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
+<!--Star 历史走势图 -->
+## Star History
+<div align="center">
+  <img src="https://api.star-history.com/svg?repos=lihecen/tiny-react,lihecen/tiny-vue3&type=Date" />
+</div>
 
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
