@@ -39,6 +39,15 @@
 </a>
 </div> 
 
+<!-- 社交统计 -->
+  ## Social Statistics
+  <div align="center"> 
+    <img src="https://stats.justsong.cn/api/leetcode?username=lihecen&cn=true&theme=tokyonight" /> 
+  </div>
+  
+<!-- for beauty 留个空行好看点 -->
+ <div>&nbsp;</div>
+
 <!-- star 语言占比等统计 -->
 ## Github Stats  
 <div align="center">
