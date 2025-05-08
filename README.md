@@ -70,11 +70,6 @@
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
-<!-- 3D个人贡献资料图 -->
-<picture>
-  <img src="https://github.com/lihecen/action/blob/main/profile-3d-contrib/profile-green-animate.svg" />
-</picture>
-
 <!-- 技能表 -->
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
