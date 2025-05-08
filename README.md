@@ -42,7 +42,8 @@
 <!-- 社交统计 -->
   ## Social Statistics
   <div align="center"> 
-    <img src="https://stats.justsong.cn/api/leetcode?username=lihecen&cn=true&theme=tokyonight" /> 
+    <img src="https://stats.justsong.cn/api/github?username=lihecen&theme=gruvbox_light" /> 
+    <img src="https://stats.justsong.cn/api/leetcode?username=li-he-cen&cn=true&theme=gruvbox_light" /> 
   </div>
   
 <!-- for beauty 留个空行好看点 -->
