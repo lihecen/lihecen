@@ -162,10 +162,21 @@
        <img width="150"  src="https://img.shields.io/github/forks/lihecen/tiny-react?style=social" alt="stars"/>
      </td>
    </tr>
+   <tr>
+     <td><a href="https://github.com/lihecen/NowCoderCommunity" target="_blank">NowCoderCommunity</a></td>
+     <td>NowCoderCommunity仿牛客论坛项目，熟练操作java生态以及数据库框架体系</td>
+     <td >
+       <img width="150"  src="https://img.shields.io/github/stars/lihecen/NowCoderCommunity?style=social" alt="stars"/>
+     </td>
+     <td >
+       <img width="150"  src="https://img.shields.io/github/forks/lihecen/NowCoderCommunity?style=social" alt="stars"/>
+     </td>
+   </tr>
   
 </table>
    <!-- 粉红色汇总表 -->
    <img width="120%" src="https://repobeats.axiom.co/api/embed/395dcdf5231635e447c7ff7cbe04980e55555b9f.svg" />
    <img width="120%" src="https://repobeats.axiom.co/api/embed/a157fb7251660f237b1ad6a6385e71d8ffd744e7.svg" />
+   <img width="120%" src="https://repobeats.axiom.co/api/embed/e911abb17b7cb76976c16547f8f212ae34bcca3d.svg" />
 </div>
 
