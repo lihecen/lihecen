@@ -89,12 +89,11 @@
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
-<!--Star 历史走势图 -->Add commentMore actions
+<!--Star 历史走势图 -->
 ## Star History
 <div align="center">
   <img src="https://api.star-history.com/svg?repos=lihecen/tiny-react,lihecen/tiny-vue3&type=Date" />
 </div>
-Add commentMore actions
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
 
