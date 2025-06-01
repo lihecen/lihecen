@@ -92,7 +92,7 @@
 <!--Star 历史走势图 -->
 ## Star History
 <div align="center">
-  <img src="https://api.star-history.com/svg?repos=lihecen/tiny-react,lihecen/tiny-vue3&type=Date" />
+  <img src="https://api.star-history.com/svg?repos=lihecen/NowCoderCommunity,lihecen/tiny-react,lihecen/tiny-vue3&type=Date" />
 </div>
 <!-- for beauty 留个空行好看点 -->
 <div>&nbsp;</div>
