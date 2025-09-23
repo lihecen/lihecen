@@ -18,12 +18,10 @@
 <!-- 个人介绍 -->
 ### <div align="center">✨Hello ~ 我是栗赫岑，互联网的同志们也可以叫我小栗2333✨</div>  
 <br/>  
-<div align="center">✨目前就职于华为技术有限公司 | 嗯..........梦想嘛是成为一名优秀的全栈工程师和优秀的青年企业家✨</div>
+<div align="center">✨目前就职于华为技术有限公司✨</div>
 <br/>
 <div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🔭 </div>  
 <br/>  
-<div align="center">🔭 ACM-ICPC ec finals 金牌 + 银牌 | 喜欢算法（职业算法竞赛专业淘汰出局选手一只）| 不是在打比赛就是在打比赛的路上🔭 </div>  
-<br/>
 <div align="center">❓如有任何疑问和想法，欢迎在Github下留言交流❓</div>  
 <br/>  
 
