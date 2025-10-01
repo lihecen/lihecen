@@ -19,6 +19,8 @@
 ### <div align="center">✨Hello ~ 我是栗赫岑，互联网的同志们也可以叫我小栗2333✨</div>  
 <br/>  
 <div align="center">✨目前就职于华为技术有限公司✨</div>
+<br/> 
+<div align="center">✨acm-icpc ec finals 金牌 + 银牌✨</div>
 <br/>
 <div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🔭 </div>  
 <br/>  
