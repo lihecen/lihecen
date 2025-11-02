@@ -140,20 +140,9 @@
        <img width="150"  src="https://img.shields.io/github/forks/lihecen/tiny-vue3?style=social" alt="stars"/>
      </td>
    </tr>
-   <tr>
-     <td><a href="https://github.com/lihecen/RedBookX" target="_blank">RedBookX</a></td>
-     <td>RedBookX 是一个仿小红书社区项目，主要包括笔记发布、点赞、收藏、关注等功能。平台需要满足海量用户的高并发读写和数据一致性要求，确保用户操作的实时响应，并通过分布式架构实现高可用和高扩展性</td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/stars/lihecen/RedBookX?style=social" alt="stars"/>
-     </td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/forks/lihecen/RedBookX?style=social" alt="stars"/>
-     </td>
-   </tr>
   
 </table>
    <!-- 粉红色汇总表 -->
    <img width="120%" src="https://repobeats.axiom.co/api/embed/395dcdf5231635e447c7ff7cbe04980e55555b9f.svg" />
-   <img width="120%" src="https://repobeats.axiom.co/api/embed/cbbd7fc77c40f74d449d0cea6a3448f5397bca18.svg" />
 </div>
 
