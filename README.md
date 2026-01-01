@@ -20,9 +20,9 @@
 <br/>  
 <div align="center">✨目前就职于华为技术有限公司✨</div>
 <br/> 
-<div align="center">✨acm-icpc ec finals 金牌 + 银牌✨</div>
+<div align="center">✨acm-icpc ec finals 亚洲赛区总决赛金牌✨</div>
 <br/>
-<div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目，兴趣驱动式学习🔭 </div>  
+<div align="center">🔭 酷爱编程，喜欢开发一些有趣的项目及大模型算法探索ing，兴趣驱动式学习🔭 </div>  
 <br/>  
 <div align="center">❓如有任何疑问和想法，欢迎在Github下留言交流❓</div>  
 <br/>  
