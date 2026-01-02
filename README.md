@@ -43,6 +43,12 @@
 <!-- for beauty 留个空行好看点 -->
  <div>&nbsp;</div>
 
+<!-- 奖杯墙 -->
+## Github Score  
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lihecen" /> </div>
+<!-- for beauty 留个空行好看点 -->
+<div>&nbsp;</div>
+
 <!-- 贡献曲线图 -->
 ## Github Contribution
 <table>
