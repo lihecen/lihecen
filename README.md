@@ -133,20 +133,9 @@
        <img width="150"  src="https://img.shields.io/github/forks/lihecen/tiny-vue3?style=social" alt="stars"/>
      </td>
    </tr>
-    <tr>
-     <td><a href="https://github.com/lihecen/polarisX" target="_blank">polarisX</a></td>
-     <td>polarisX--一款基于AI自动生成代码整体架构和程序应用效果的SaSS工具</td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/stars/lihecen/polarisX?style=social" alt="stars"/>
-     </td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/forks/lihecen/polarisX?style=social" alt="stars"/>
-     </td>
-   </tr>
   
 </table>
    <!-- 粉红色汇总表 -->
    <img width="120%" src="https://repobeats.axiom.co/api/embed/395dcdf5231635e447c7ff7cbe04980e55555b9f.svg" />
-    <img width="120%" src="https://repobeats.axiom.co/api/embed/81c8cc618d7e994948b18b0679b1c3b3e636b2fc.svg" />
 </div>
 
