@@ -129,9 +129,21 @@
        <img width="150"  src="https://img.shields.io/github/forks/lihecen/tiny-vue3?style=social" alt="stars"/>
      </td>
    </tr>
+
+   <tr>
+     <td><a href="https://github.com/lihecen/ResonanceX" target="_blank">ResonanceX</a></td>
+     <td>ResonanceX是一款基于人工智能的语音克隆平台</td>
+     <td >
+       <img width="150"  src="https://img.shields.io/github/stars/lihecen/ResonanceX?style=social" alt="stars"/>
+     </td>
+     <td >
+       <img width="150"  src="https://img.shields.io/github/forks/lihecen/ResonanceX?style=social" alt="stars"/>
+     </td>
+   </tr>
   
 </table>
    <!-- 粉红色汇总表 -->
    <img width="120%" src="https://repobeats.axiom.co/api/embed/395dcdf5231635e447c7ff7cbe04980e55555b9f.svg" />
+   <img width="120%" src="https://repobeats.axiom.co/api/embed/08aba2ca3c3a99a7e67ce5b1735914486c23ce29.svg" />
 </div>
 
