@@ -108,39 +108,6 @@
 
 </td></tr></table>  
 
-<!-- 项目介绍 -->
-## My Projects  
-<div align="center">
-
-<table>
-  <tr>
-    <th>项目名称</th>
-    <th>项目描述</th>
-    <th>Stars</th>
-    <th>Forks</th>
-  </tr>
-   <tr>
-     <td><a href="https://github.com/lihecen/tiny-vue3" target="_blank">tiny-vue3</a></td>
-     <td>tiny-vue3是基于vue3源码抽离的核心代码逻辑，重新手写复盘vue3源码，学习尤雨溪尤大的编程思维</td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/stars/lihecen/tiny-vue3?style=social" alt="stars"/>
-     </td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/forks/lihecen/tiny-vue3?style=social" alt="stars"/>
-     </td>
-   </tr>
-
-   <tr>
-     <td><a href="https://github.com/lihecen/ResonanceX" target="_blank">ResonanceX</a></td>
-     <td>ResonanceX是一款基于人工智能的语音克隆平台</td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/stars/lihecen/ResonanceX?style=social" alt="stars"/>
-     </td>
-     <td >
-       <img width="150"  src="https://img.shields.io/github/forks/lihecen/ResonanceX?style=social" alt="stars"/>
-     </td>
-   </tr>
-  
 </table>
    <!-- 粉红色汇总表 -->
    <img width="120%" src="https://repobeats.axiom.co/api/embed/395dcdf5231635e447c7ff7cbe04980e55555b9f.svg" />
