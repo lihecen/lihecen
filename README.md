@@ -107,10 +107,5 @@
 </div>
 
 </td></tr></table>  
-
-</table>
-   <!-- 粉红色汇总表 -->
-   <img width="120%" src="https://repobeats.axiom.co/api/embed/395dcdf5231635e447c7ff7cbe04980e55555b9f.svg" />
-   <img width="120%" src="https://repobeats.axiom.co/api/embed/08aba2ca3c3a99a7e67ce5b1735914486c23ce29.svg" />
 </div>
 
